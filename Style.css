@@ -4,33 +4,35 @@
     margin: 0 auto;
 }
 .code{
-    
+    height: 18px;
     border: 1px solid black;
 
 }
 .flag{
-    
+    height: 18px;
     border: 1px solid black;
     display: flex;
     flex-direction: column;
 
 }
 .name{
-    
+    height: 18px;
     border: 1px solid black;
     
 }
 .capital{
-    
+    height: 18px;
     border: 1px solid black;
     
 }
 .population{
+    height: 18px;
         border: 1px solid black;
     
 }
 
 .border{
+    height: 18px;
     border: 1px solid black;
     margin: 0;
 }
