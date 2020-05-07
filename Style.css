@@ -1,0 +1,41 @@
+.container{
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+}
+.code{
+    
+    border: 1px solid black;
+
+}
+.flag{
+    
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+
+}
+.name{
+    
+    border: 1px solid black;
+    
+}
+.capital{
+    
+    border: 1px solid black;
+    
+}
+.population{
+        border: 1px solid black;
+    
+}
+
+.border{
+    border: 1px solid black;
+    margin: 0;
+}
+
+.flags{
+    height: 18px;
+    border: 1px solid black;
+}
